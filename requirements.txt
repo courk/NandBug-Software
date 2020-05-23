@@ -1,0 +1,5 @@
+nmigen==0.2
+bchlib==0.14.0
+nmigen_boards==0.0
+pylibftdi==0.17.0
+halo==0.0.29

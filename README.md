@@ -2,7 +2,7 @@
 
 ## Overview
 
-This software is part of the *NandBug* Project. Hardware files are available [here](todo).
+This software is part of the *NandBug* Project. Hardware files are available [here](https://github.com/courk/NandBug-Hardware).
 
 *NandBug* is a small FPGA based board that I used in my [Running Custom Code on a Google Home Mini](https://courk.cc/running-custom-code-google-home-mini-part1) project.
 
